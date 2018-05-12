@@ -1,0 +1,44 @@
+_repo: The-Rover-Boys-Down-East--or-The-Struggle-for-the-Stanhope-Fortune_40303
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    birthdate: 1871
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+covers:
+- cover_type: archival
+  image_path: 40303-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stratemeyer, Edward
+    aliases:
+    - Winfield, Arthur M.
+    - Bonehill, Captain Ralph
+    - Bonehill, Ralph
+    - Steward, Ray M.
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+description: ''
+gutenberg_issued: '2012-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers -- Juvenile fiction'
+- !lcsh 'Children of the rich -- Juvenile fiction'
+- !lcsh 'Abduction -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Maine -- Juvenile fiction'
+- !lcsh 'Fortune -- Juvenile fiction'
+- !lcsh 'New England -- Juvenile fiction'
+- !lcsh 'Enemies -- Juvenile fiction'
+title: The Rover Boys Down East; or, The Struggle for the Stanhope Fortune
+url: http://www.gutenberg.org/ebooks/40303
